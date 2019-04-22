@@ -1,0 +1,1 @@
+# slic-result-compare
